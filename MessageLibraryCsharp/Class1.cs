@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace MessageBoxDLL
+namespace MessageBoxDLLClass
 {
     public class MessageBoxDLL
     {
